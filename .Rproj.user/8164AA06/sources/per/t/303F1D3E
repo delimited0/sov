@@ -1,0 +1,25 @@
+{
+    "id": "303F1D3E",
+    "path": "~/Research/sov/test/debugging.R",
+    "project_path": "test/debugging.R",
+    "type": "r_source",
+    "hash": "3407635927",
+    "contents": "",
+    "dirty": false,
+    "created": 1605677763265.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "24,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1606927508,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606927508014,
+    "read_only": false,
+    "read_only_alternatives": []
+}
